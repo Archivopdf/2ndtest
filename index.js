@@ -1,5 +1,5 @@
-function calculadoraSuma(op1, op2) {
-    resultado = op1 + op2;
+function calculadoraSuma(op1, op2, op3) {
+    resultado = op1 + op2 + op3;
     return resultado
 }
 function calculadoraSubs(op1, op2) {
