@@ -12,3 +12,4 @@
 
 7.git push -u origin main       para cargar los datos de la rama local trabajada a github
 
+reto3
