@@ -11,3 +11,4 @@
 6.git branch -M main    Para crear una rama principal
 
 7.git push -u origin main       para cargar los datos de la rama local trabajada a github
+
