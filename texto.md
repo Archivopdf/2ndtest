@@ -1,0 +1,1 @@
+Lo que debería haber ocurrido es que las imagenes no se mostraran pero como ya hice un push con ellas en la carpeta se muestran. En este caso lo que ocurre es que cualquier cambio realizado a los png o jpg como algunos que subi sin querer no deberian realizarse
